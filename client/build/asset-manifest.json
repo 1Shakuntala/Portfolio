@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/static/css/main.0d698ca2.css",
+    "main.js": "/static/js/main.9083edff.js",
+    "static/js/453.258b012d.chunk.js": "/static/js/453.258b012d.chunk.js",
+    "static/media/Project1.png": "/static/media/Project1.ef2a7b2f5a736f644b5f.png",
+    "static/media/Project2.png": "/static/media/Project2.6b0a99343532719300f2.png",
+    "static/media/Project3.png": "/static/media/Project3.9bb5e6483f87c8fbc8ec.png",
+    "static/media/Shakuntala.jpg": "/static/media/Shakuntala.572f71c649eba3555922.jpg",
+    "static/media/Shakuntala_resume.pdf": "/static/media/Shakuntala_resume.d45d950d641228e83651.pdf",
+    "index.html": "/index.html",
+    "main.0d698ca2.css.map": "/static/css/main.0d698ca2.css.map",
+    "main.9083edff.js.map": "/static/js/main.9083edff.js.map",
+    "453.258b012d.chunk.js.map": "/static/js/453.258b012d.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.0d698ca2.css",
+    "static/js/main.9083edff.js"
+  ]
+}
